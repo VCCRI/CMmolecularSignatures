@@ -1,0 +1,9 @@
+# Site settings
+title: Cardiomyocyte molecular signatures
+author:
+  name: David Humphreys
+  email: your-email@domain.com
+description: "Data resource methods for manuscript"
+
+# Build settings
+remote_theme: jekyll/minima
