@@ -2,7 +2,6 @@
 layout: home 
 ---
 
-# Cardiomyocyte molecular signatures
 
 ## Abstract
 
